@@ -1,5 +1,5 @@
 # Data Mining – Kelompok 7  
-**Implementasi Feature Engineering & Model Evaluasi pada Dua Dataset (Transaksi & Gelombang Laut)**
+**Implementasi Feature Selection dan PCA untuk Optimasi Model Klasifikasi pada Dataset Transaksi dan Dataset Gelombang**
 
 Proyek ini mengimplementasikan teknik *preprocessing*, *feature engineering*, dan *evaluasi model* berbasis metode yang umum digunakan dalam penelitian Data Mining. Dua dataset berbeda digunakan: data transaksi stok tahun 2021 dan data gelombang laut. Model diuji sebelum dan sesudah dilakukan *feature selection* serta *PCA* untuk melihat peningkatan performa.
 
@@ -139,3 +139,4 @@ Proyek ini dibuat sebagai tugas akhir mata kuliah **Data Mining**.
 
 ## 🙌 Penutup
 Proyek ini menunjukkan bagaimana *feature engineering* seperti **Feature Selection** dan **PCA** dapat meningkatkan performa model klasifikasi pada dataset dengan karakteristik yang berbeda. Pendekatan ini dapat dikembangkan lebih lanjut menggunakan model lain seperti **SVM**, **XGBoost**, atau **Deep Learning** untuk eksplorasi performa yang lebih tinggi.
+
